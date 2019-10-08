@@ -1,5 +1,5 @@
 # RainbowCoder
-Colours of the rainbow are:
+The colours of the rainbow are:
 
 Red
 
